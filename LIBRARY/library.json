@@ -1,0 +1,16 @@
+{
+ "books": [
+  {
+   "id": 1,
+   "title": "apple",
+   "author": "Balaswitha",
+   "status": "available"
+  },
+  {
+   "id": 2,
+   "title": "Peace",
+   "author": "Medha",
+   "status": "available"
+  }
+ ]
+}
